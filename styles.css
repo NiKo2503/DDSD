@@ -1195,13 +1195,13 @@ h1, h2, h3, h4, h5, h6, .font-display{
 .site-nav__link{
   font-size: 0.875rem;
   letter-spacing: 0.025em;
-  color: rgba(255, 255, 255, 0.8);
+  color:  rgb(37 99 23, 0.8);
   transition: color 150ms;
 }
 
 .site-nav__link:hover,
 .site-nav__link--active{
-  color: #FFFFFF;
+  color: #2563EB;
 }
 
 .site-nav__action{
